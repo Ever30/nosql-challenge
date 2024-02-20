@@ -78,7 +78,8 @@ Hint: You will need to compare the geocode to find the nearest locations. Search
 Hint: You will need to use the aggregation method to answer this.
 
 # Required libraries or coding language.
-SQL Jupyter Lab python
+    - SQL, Jupyter Lab, python.
+    - pymongo, pandas, pprint.
 
 # Results
 I completed the "NoSQL_analysis_starter.ipynb" and "NoSQL_setup_starter.ipynb" files meeting all the requirements described above.
